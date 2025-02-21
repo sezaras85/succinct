@@ -1,4 +1,4 @@
-https://github.com/sezaras85/succinct/blob/main/succinctlabs%20RES%C4%B0M.jpg?raw=true
+<img width="1230" alt="image" src="https://github.com/sezaras85/succinct/blob/main/succinctlabs%20RES%C4%B0M.jpg?raw=true" />
 
 
 Succinct Labs,  özellikle **zero-knowledge proof (zk-proof)** teknolojileri üzerine odaklanan bir araştırma ve geliştirme şirketidir. Projeleri, blok zincirler arası iletişimi (cross-chain communication) ve ölçeklenebilirliği artırmayı hedefler. Succinct Labs, zk-proof'ları kullanarak hem güvenli hem de verimli çözümler sunmayı amaçlar.
