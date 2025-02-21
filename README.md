@@ -1,7 +1,22 @@
-```markdown
-# Succinct Labs Token Projesi
+Succinct Labs,  özellikle **zero-knowledge proof (zk-proof)** teknolojileri üzerine odaklanan bir araştırma ve geliştirme şirketidir. Projeleri, blok zincirler arası iletişimi (cross-chain communication) ve ölçeklenebilirliği artırmayı hedefler. Succinct Labs, zk-proof'ları kullanarak hem güvenli hem de verimli çözümler sunmayı amaçlar.
 
-Bu proje, Succinct Labs tarafından geliştirilen bir token projesidir. Aşağıda projenin kurulum ve kullanım adımları bulunmaktadır.
+#### Succinct Labs'ın Odaklandığı Alanlar:
+1. **Zero-Knowledge Proofs (zk-Proofs):**
+   - Gizlilik ve ölçeklenebilirlik sağlayan zk-proof teknolojileri üzerine çalışmalar yapıyor.
+   - Bu teknoloji, blok zincirlerdeki işlemlerin doğrulanmasını hızlandırırken, maliyetleri de düşürüyor.
+
+2. **Cross-Chain Communication:**
+   - Farklı blok zincirleri arasında güvenli ve hızlı iletişim sağlayan çözümler geliştiriyor.
+   - Bu, token transferleri ve veri paylaşımı için önemli bir altyapı sunar.
+
+3. **Developer Tools:**
+   - Geliştiriciler için zk-proof tabanlı araçlar ve kütüphaneler sağlayarak, yeni uygulamaların oluşturulmasını kolaylaştırıyor.
+
+
+Bir developer iseniz aşağıdaki yer alan kodlarla ubuntu üzerinden bir anahtar çifti oluşturarak Succinct Prover Network Beta'ya başvurabilirsiniz.
+
+
+```markdown
 
 ## Kurulum
 
@@ -75,21 +90,8 @@ cast wallet address --private-key PRIV
 
 Projeyi kullanmaya başlamak için gerekli tüm kurulum adımlarını tamamladıktan sonra, proje dosyalarınızı düzenleyebilir ve geliştirmeye başlayabilirsiniz.
 
-## Katkıda Bulunma
+En son adım olarak aşağıdaki formda gerekli alanları doldurarak gönderebilirsiniz:
 
-Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
+https://docs.google.com/forms/d/e/1FAIpQLSd-X9uH7G0bvXH_kjptnQtNil8L4dumrVPpFE4t8Ci1XT1GaQ/viewform
 
-1. Bu repoyu fork edin.
-2. Yeni bir branch oluşturun (`git checkout -b feature/AmazingFeature`).
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`).
-4. Branch'inizi pushlayın (`git push origin feature/AmazingFeature`).
-5. Bir Pull Request açın.
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
----
-
-**Not:** Bu belge, projenin temel kurulum adımlarını içermektedir. Projenin geliştirilmesi sırasında bu adımlar güncellenebilir.
-```
